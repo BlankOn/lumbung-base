@@ -1,0 +1,9 @@
+Name: merge.sid
+Suite: sid
+VerifyRelease: blindtrust	
+Method: http://kartolo.sby.datautama.net.id/debian
+Architectures: amd64 source
+Components: main non-free>restricted contrib>extras
+# main restricted extras extras-restricted
+#FilterList: install blacklist.unstable
+FilterList: install blacklist.pkg

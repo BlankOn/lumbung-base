@@ -1,0 +1,7 @@
+basedir /home/arsipdev/verbeek
+confdir /home/arsipdev/verbeek/conf
+dbdir /home/arsipdev/verbeek/db
+outdir /home/arsipdev/verbeek/rilis
+gnupghome /home/arsipdev/verbeek/gnupg
+
+#ignore brokensignatures
