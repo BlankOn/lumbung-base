@@ -1,5 +1,5 @@
 ask-passphrase
-basedir /home/arsipdev-reboot/repositories
-confdir /home/arsipdev-reboot/repositories/conf
-dbdir /home/arsipdev-reboot/repositories/db
-outdir /home/arsipdev-reboot/repositories/release
+basedir /home/arsipdev-reboot/lumbung-verbeek
+confdir /home/arsipdev-reboot/lumbung-verbeek/conf
+dbdir /home/arsipdev-reboot/lumbung-verbeek/db
+outdir /home/arsipdev-reboot/lumbung-verbeek/release

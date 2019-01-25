@@ -11,7 +11,7 @@ Architectures: amd64 source
 Version: 12.0
 Description: BlankOn 12.0 Verbeek
 Update: merge.sid
-SignWith: 9120A048
+SignWith: 0B352C08D746A9A6
 DebIndices: Packages Release . .gz .bz2 tiffany.py
 UDebIndices: Packages . .gz .bz2 
 DscIndices: Sources Release . .gz .bz2 tiffany.py
@@ -33,7 +33,7 @@ Architectures: amd64 source
 Version: 12.0
 Description: BlankOn 12.0 Verbeek Security
 Update: 
-SignWith: 9120A048
+SignWith: 0B352C08D746A9A6
 DebIndices: Packages Release . .gz .bz2 tiffany.py
 UDebIndices: Packages . .gz .bz2
 DscIndices: Sources Release . .gz .bz2 tiffany.py
@@ -54,7 +54,7 @@ Architectures: amd64 source
 Version: 12.0
 Description: BlankOn 12.0 Verbeek Updates
 Update:
-SignWith: 9120A048
+SignWith: 0B352C08D746A9A6
 DebIndices: Packages Release . .gz .bz2 tiffany.py
 UDebIndices: Packages . .gz .bz2
 DscIndices: Sources Release . .gz .bz2 tiffany.py
