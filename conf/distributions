@@ -21,7 +21,7 @@ ContentsArchitectures: amd64 source
 ContentsComponents: main restricted extras extras-restricted
 ContentsUComponents: main
 Log: verbeek.log
- --type=dsc changelogs
+ --type=dsc changelogs.sh
 
 Origin: BlankOn
 Label: BlankOn
@@ -42,7 +42,7 @@ ContentsArchitectures: amd64
 ContentsComponents: main restricted extras extras-restricted 
 ContentsUComponents: main 
 Log: verbeek-security.log
- --type=dsc changelogs
+ --type=dsc changelogs.sh
 
 Origin: BlankOn
 Label: BlankOn
@@ -63,5 +63,5 @@ ContentsArchitectures: amd64
 ContentsComponents: main restricted extras extras-restricted
 ContentsUComponents: main
 Log: verbeek-security.log 
- --type=dsc changelogs 
+ --type=dsc changelogs.sh 
 
