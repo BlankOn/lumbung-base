@@ -3,10 +3,8 @@ Suite: sid
 VerifyRelease: blindtrust	
 Method: http://kartolo.sby.datautama.net.id/debian
 Architectures: amd64 source
-
 # This will redirect non-free to restricted and contrib to extras.
 Components: main non-free>restricted contrib>extras
 # main restricted extras extras-restricted
-
 # Enable this blacklist when we want to put our own packages into the repository
 #FilterList: install blacklist.pkg
